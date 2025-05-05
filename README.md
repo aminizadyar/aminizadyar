@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Feri!
 
-<!--
-**aminizadyar/aminizadyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD student in Finance | 📊 Data Analyst | 💬 Curious about AI & Markets
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Python, Pandas, Tableau, SQL
+- GitHub, Azure, ChatGPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Research Interests
+- Empirical Asset Pricing
+- Exchange Rate Predictability
+- AI for Forecasting Financial Markets
+
+## 📫 Let's connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/YOUR_PROFILE)
+
+---
