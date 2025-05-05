@@ -1,18 +1,5 @@
-# 👋 Hi, I'm Feri!
-
-🎓 PhD student in Finance | 📊 Data Analyst | 💬 Curious about AI & Markets
-
-## 🔧 Tools & Technologies
-- Python, Pandas, Tableau, SQL
-- GitHub, Azure, ChatGPT
-
-## 📈 My Research Interests
-- Empirical Asset Pricing
-- Exchange Rate Predictability
-- AI for Forecasting Financial Markets
-
-## 📫 Let's connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/YOUR_PROFILE)
-
----
+👋 Hi, I'm Amin Izadyar!
+📈 I’m interested in quantitative finance and machine learning.
+💬 Curious about AI & Markets.
+🎓 I’m currently a PhD candidate in Finance at Imperial College London
+📫 a.izadyar23[at]imperial.ac.uk
