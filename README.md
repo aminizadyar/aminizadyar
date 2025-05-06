@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amin Izadyar!
+👋 Hi, I'm Amin Izadyar!
 
 📈 I’m interested in **quantitative finance** and **machine learning**.  
 💬 Curious about **AI & Markets**.  
